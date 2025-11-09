@@ -1,0 +1,19 @@
+{
+    "Grand Piece Online": {
+        "status": "Undetected",
+        "statusColor": "green",
+        "keyStatus": "Premium"
+    },
+
+    "Blox Fruits": {
+        "status": "Detected",
+        "statusColor": "red",
+        "keyStatus": "Free"
+    },
+
+    "Rell Seas": {
+        "status": "Fixing Issues",
+        "statusColor": "orange",
+        "keyStatus": "Free"
+    }
+}
